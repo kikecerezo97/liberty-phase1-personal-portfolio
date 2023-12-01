@@ -4,5 +4,22 @@
 Author: Luis Enrique González Sánchez
 
 # About a Project
+This is a portfolio with 5 sections
+-Header
+-  About me
+- Skills
+- Projects
+-Contact
 
+The design uses a lot of black white and teal and is full responsive.
+
+At the top I made a responsive navigation bar in the header
+Group two About Me sections
+Skills in a section called header-top and we made it responsive
+using flexbox to group it in a column for mobile
+Later in the projects section we made some cards with 3 cards per line
+and for mobile a card that occupies 100%
+finally add a contact section
+with 2 inputs and a text area along with their label tags to describe
+each field for mobile, the input and the textarea occupy 100% and the label tag disappears
 
